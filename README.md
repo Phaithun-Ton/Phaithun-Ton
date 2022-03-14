@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋 I'm Phaithun
+###### 🌱 I’m currently learning Front-End , Back-End
+###### 🌱 I’m interested in Web development
+###### 📫 How to reach me: phaithun.ap@gmail.com
+
 
 <!--
 **Phaithun-Ton/Phaithun-Ton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
